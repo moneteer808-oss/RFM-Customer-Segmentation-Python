@@ -33,7 +33,7 @@ Python implementation of RFM (Recency, Frequency, Monetary) customer segmentatio
 
 ## Portfolio Context
 - Foundation Project: **[Superstore RFM Segmentation](https://github.com/moneteer808-oss/Superstore-RFM-Customer-Segmentation)**
-Initial R implementation that informed this analysis
+- Initial R implementation that informed this analysis
 
 - Feasibility Study: **[Superstore Predictive Analytics](https://github.com/moneteer808-oss/Superstore-Predictive-Customer-Analytics)**
 - R exploration revealing predictive modeling limitations
